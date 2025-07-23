@@ -8,6 +8,13 @@
       "when": 1752110078551,
       "tag": "0000_free_absorbing_man",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752328272849,
+      "tag": "0001_fancy_tusk",
+      "breakpoints": true
     }
   ]
 }
