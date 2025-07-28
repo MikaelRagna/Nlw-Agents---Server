@@ -15,6 +15,13 @@
       "when": 1752328272849,
       "tag": "0001_fancy_tusk",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1753647219703,
+      "tag": "0002_wild_valkyrie",
+      "breakpoints": true
     }
   ]
 }
